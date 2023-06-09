@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# QT User Settings
+*.pro.user  
+
+# VS Code User Settings
+.vscode/
